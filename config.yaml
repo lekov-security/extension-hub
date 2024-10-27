@@ -1,13 +1,24 @@
-
 extensions:
-    - name: extension1
+    - name: 'Example Scanner #1'
       path: extensions/extension1
       version: 0.0.1-alpha
       type: scanner
-      description: An example scanner extension that does this and that. When
+      description: An example scanner extension that does this and that. When the code is longer than 3 rows, it will automatically get truncated, which can be seen here with this example.
 
-    - name: extension2
+    - name: 'Example Analyzer #1'
       path: extensions/extension2
       version: 1.0.0-beta
       type: analyzer
-      description: An example analyzer based on port service
+      description: An example analyzer based on port service.
+
+    - name: 'Example Scanner #2'
+      path: extensions/extension3
+      version: 2.3.4-rc
+      type: scanner
+      description: Another example of a scanner.
+
+    - name: 'Example Scanner #3'
+      path: extensions/extension4
+      version: 3.14.15
+      type: scanner
+      description: Yet another example of a scanner.
