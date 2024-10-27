@@ -25,3 +25,4 @@ extensions:
       version: 3.14.15
       type: scanner
       description: Yet another example of a scanner.
+      depracated: true
