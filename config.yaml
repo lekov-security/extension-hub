@@ -1,13 +1,13 @@
 
 extensions:
-    alpha:
-        - name: extension1
-          path: extensions/extension1
-          version: 0.0.1-alpha
-          type: scanner
+    - name: extension1
+      path: extensions/extension1
+      version: 0.0.1-alpha
+      type: scanner
+      description: An example scanner extension that does this and that. When
 
-    beta:
-        - name: extension1
-          path: extensions/extension1
-          version: 0.0.1-alpha
-          type: scanner
+    - name: extension2
+      path: extensions/extension2
+      version: 1.0.0-beta
+      type: analyzer
+      description: An example analyzer based on port service
