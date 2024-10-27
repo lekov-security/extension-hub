@@ -1,0 +1,9 @@
+metadata:
+    version: 1.0.0-beta
+    type: analyzer
+    author: Anonymous
+    description: An example analyzer based on port service
+
+dependencies:
+    pip:
+        - requests

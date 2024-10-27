@@ -1,0 +1,15 @@
+metadata:
+    version: 0.0.1
+    type: scanner
+    author: Anonymous
+    description: An example scanner extension that does this and that
+
+secrets:
+    environment-variables:
+        TEST: &e1 123
+
+dependencies:
+    apt:
+        - tmux
+    environment-variables:
+        TEST: *e1

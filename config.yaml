@@ -1,0 +1,13 @@
+
+extensions:
+    alpha:
+        - name: extension1
+          path: extensions/extension1
+          version: 0.0.1-alpha
+          type: scanner
+
+    beta:
+        - name: extension1
+          path: extensions/extension1
+          version: 0.0.1-alpha
+          type: scanner
