@@ -1,5 +1,5 @@
 metadata:
-    - description: This is the official hub.
+    description: This is the official hub.
 
 extensions:
     - name: 'Example Scanner #1'
