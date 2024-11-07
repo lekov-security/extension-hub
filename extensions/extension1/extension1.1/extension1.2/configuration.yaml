@@ -1,0 +1,7 @@
+metadata:
+    name: 'Example Scanner #1.2'
+    version: 0.3.5-alpha
+    type: scanner
+    author: Anonymous
+    description: >
+        An example scanner extension that does this and that.
