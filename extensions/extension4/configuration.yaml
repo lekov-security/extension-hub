@@ -1,7 +1,7 @@
 metadata:
-	name: 'Example Scanner #3'
-	version: 3.14.15
-	type: scanner
-	author: John Doe
-	description: >
-		Yet another example of a scanner.
+    name: 'Example Scanner #3'
+    version: 3.14.15
+    type: scanner
+    author: John Doe
+    description: >
+        Yet another example of a scanner.
