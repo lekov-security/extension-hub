@@ -5,3 +5,4 @@ metadata:
     author: John Doe
     description: >
         Yet another example of a scanner.
+    deprecated: true
