@@ -1,0 +1,7 @@
+metadata:
+	name: 'Example Analyzer #2'
+	version: 0.0.1-experimental
+	type: analyzer
+	author: Anonymous
+	description: >
+		Another example of an analyzer.
