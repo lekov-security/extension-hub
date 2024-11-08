@@ -1,1 +1,1 @@
-print('Example extension #3 at version 1.7.7-beta')
+print('Example extension #3 at version 2.4.6-rc')
