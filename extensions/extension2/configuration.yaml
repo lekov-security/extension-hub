@@ -1,6 +1,6 @@
 metadata:
     name: 'Example Analyzer #1'
-    version: 1.0.0-beta
+    version: 1.0.1-beta
     type: analyzer
     author: Anonymous
     description: >
