@@ -1,0 +1,1 @@
+print('Example extension #3 at version 0.4.6-alpha')
