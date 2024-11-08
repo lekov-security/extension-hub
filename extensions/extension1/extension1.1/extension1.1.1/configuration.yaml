@@ -1,9 +1,9 @@
 metadata:
     name: 'Example Scanner #1.1.1'
-    version: 0.5.3-alpha
+    version: 0.5.4-alpha
     type: scanner
     author: Anonymous
-    description: >
+    description: |
         An example scanner extension that does this and that.
         
         When the code is longer than 3 rows, it will automatically get truncated, which can be seen here with this example.
