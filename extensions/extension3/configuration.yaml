@@ -1,7 +1,10 @@
 metadata:
     name: 'Example Scanner #2'
-    version: 2.3.4-rc
+    version: 2.3.5-rc
     type: scanner
     author: John Doe
     description: >
         Another example of a scanner.
+    tags:
+        - web
+        - directory bruteforcing
