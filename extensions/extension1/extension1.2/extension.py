@@ -1,0 +1,1 @@
+print('Example extension #1.2')

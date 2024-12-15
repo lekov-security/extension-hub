@@ -1,0 +1,9 @@
+metadata:
+    id: d4798be8-b5fe-4c27-958f-7312d3c7d771
+    name: 'Example Scanner #3'
+    version: 3.14.16
+    type: scanner
+    author: John Doe
+    description: |
+        Yet another example of a scanner.
+    deprecated: true

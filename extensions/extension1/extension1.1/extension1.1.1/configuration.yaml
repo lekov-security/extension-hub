@@ -1,0 +1,25 @@
+metadata:
+    id: ce951a7b-9e2c-4955-ab2e-0dad7b6c214b
+    name: 'Example Scanner #1.1.1'
+    version: 0.0.1-alpha
+    type: scanner
+    author: Anonymous
+    description: |
+        An example scanner extension that does this and that.
+        
+        When the code is longer than 3 rows, it will automatically get truncated, which can be seen here with this example.
+    tags:
+        - web
+        - directory bruteforcing
+
+secrets:
+    environment-variables:
+        TEST: &e1 123
+
+dependencies:
+    apt:
+        - tmux
+    pip:
+        - requests
+    environment-variables:
+        TEST: *e1
